@@ -51,17 +51,6 @@ Run the assistant:
 
 python jarvis_main.py
 
-
-Future Enhancements (Optional)
-
-Expand the range of commands and functionalities (e.g., setting reminders, fetching weather, telling jokes).
-
-Integrate with online APIs for more dynamic responses (e.g., Google Search, news APIs).
-
-Implement more advanced natural language understanding (NLU) for complex queries.
-
-Improve voice recognition accuracy and speed.
-
 My Role
 
 This voice assistant was developed independently as a solo project.
